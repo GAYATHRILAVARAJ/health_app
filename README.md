@@ -8,7 +8,7 @@ This is a healthcare app which has the following functionalities:
 - Assistant chatbot
 - To run the program in VS code:
 - pip installation of wxPython must be done prior to the execution of code.
-- pip install wxPython
+-               - pip install wxPython
 -  In terminal:
 -               1.venv\Scripts\activate
 -               2.python health_app.py
