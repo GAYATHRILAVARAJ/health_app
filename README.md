@@ -7,7 +7,8 @@ This is a healthcare app which has the following functionalities:
 - Symptom Checker
 - Assistant chatbot
 - To run the program in VS code:
+- pip installation of wxPython must be done prior to the execution of code.
+- pip install wxPython
 -  In terminal:
 -               1.venv\Scripts\activate
 -               2.python health_app.py
--  pip installation of wxPython must also be done prior to the execution of code.
