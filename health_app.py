@@ -1,18 +1,3 @@
-"""
-health_app.py
-A WxPython healthcare demo app with:
-- BMI Calculator
-- Book Appointment (SQLite)
-- View Appointments
-- Symptom Checker (simple rule-based)
-- Diet & Activity lookup tab (editable dropdown + export) + integrated Medicine Reminder shortcuts
-- Medicine Reminder tab (store reminders & popups)
-- Local "AI-like" chatbot for simple queries (availability, appointment questions)
-
-Run:
-python health_app.py
-"""
-
 import wx
 import sqlite3
 import datetime
