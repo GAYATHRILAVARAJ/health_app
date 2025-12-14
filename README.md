@@ -2,10 +2,10 @@ This is a healthcare app which has the following functionalities:
 - BMI Calculator
 - Appointment Booking
 - Viewing appointments
-- Diet suggestion
-- Medicine Reminder
-- Symptom Checker
-- Assistant chatbot
+- Diet suggestion based on the user's current medical conditions
+- Medicine intake Reminder
+- Diagnosis based on user's symptoms
+- Assistant chatbot for ease of navigation through the app
 -
 - To run the program in VS code:
 - pip installation of wxPython must be done prior to the execution of code.
