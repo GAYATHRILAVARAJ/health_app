@@ -11,5 +11,6 @@ This is a healthcare app which has the following functionalities:
 - pip installation of wxPython must be done prior to the execution of code.
 -                 - pip install wxPython
 -  In terminal:
+-               python -m venv venv
 -               venv\Scripts\activate
 -               python health_app.py
